@@ -113,7 +113,3 @@ F0 00 20 29 02 0C 07 <loop> <speed> <colorspec> <text...> F7
 * `<text>` — ASCII bytes of the string.
 
 Sending the header with no payload (the `--stop` option) terminates any ongoing scroll.
-
-## License
-
-MIT
